@@ -15,3 +15,5 @@ print("Chtoto")
 ```
 
 ### Дабуди дабудай
+
+![alt text](image.png)
